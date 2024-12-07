@@ -1,14 +1,12 @@
-this is java script 1st project
+👋 Hi, I’m @VIPUlNEGI1
+👀 I’m interested in web development, AI, and open-source projects
 
-- 👋 Hi, I’m @VIPUlNEGI1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning JavaScript, React, and Node.js
 
-<!---
-VIPUlNEGI1/VIPUlNEGI1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💞️ I’m looking to collaborate on exciting web applications and machine-learning projects
+
+📫 How to reach me your.99vipul88@gmail.com or www.linkedin.com/in/vipulnegi11
+
+😄 Pronouns: He
+
+⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
